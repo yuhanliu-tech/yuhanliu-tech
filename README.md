@@ -4,3 +4,5 @@ I'm Yuhan, a third year student at the University of Pennsylvania, studying Digi
 My highlighted projects reflect my interests in computer graphics and software development. 
 
 For more information about me, visit my personal website at liuyuhan.me. 
+
+For questions and inquiries, message me at yuhanl@seas.upenn.edu. 
