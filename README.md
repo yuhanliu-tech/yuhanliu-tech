@@ -5,7 +5,7 @@ I'm Yuhan, a fourth year undergraduate student at the University of Pennsylvania
 For more information about me, visit my personal website at [liuyuhan.me](https://liuyuhan.me/). 
 For questions and inquiries, message me at *yuhanl@seas.upenn.edu*. 
 
-View my recent projects below:
+View my latest public repos below:
 
 ## [GPU Cuda Path Tracer](https://github.com/yuhanliu-tech/GPU-CUDA-Path-Tracer)
 
