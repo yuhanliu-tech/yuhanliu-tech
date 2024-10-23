@@ -7,20 +7,20 @@ For questions and inquiries, message me at *yuhanl@seas.upenn.edu*.
 
 View my recent projects below:
 
-## GPU Cuda Path Tracer
+## [GPU Cuda Path Tracer](https://github.com/yuhanliu-tech/GPU-CUDA-Path-Tracer)
 
 <img src="https://github.com/yuhanliu-tech/GPU-CUDA-Path-Tracer/blob/main/img/cover.png" width="300"/> 
 
 CUDA-based path tracer to render globally-illuminated scenes. Performance optimizations, proceduralism, mesh & textures, denoising and antialiasing.
 
-## WebGPU Forward+ & Clustered-Deferred Renderer
+## [WebGPU Forward+ & Clustered-Deferred Renderer](https://github.com/yuhanliu-tech/WebGPU-Forward-Plus-and-Clustered-Deferred)
 
 <img src="https://github.com/yuhanliu-tech/WebGPU-Forward-Plus-and-Clustered-Deferred/blob/main/img/cover.png" width="300"/> 
 
 Forward+ Shading and Clustered Deferred Shading, using WebGPU and TypeScript, demonstrated on Sponza atrium model with hundreds of point lights. Additional aesthetic artistic cell and outline fragment shader.
 [Live Demo](https://yuhanliu-tech.github.io/WebGPU-Forward-Plus-and-Clustered-Deferred/) available on Chrome. 
 
-## WebGL Wisp Shader
+## [WebGL Wisp Shader](https://github.com/yuhanliu-tech/will-o-wisp-shader)
 
 <img src="https://github.com/yuhanliu-tech/will-o-wisp-shader/blob/master/wisp.png" width="300"/> 
 
