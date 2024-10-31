@@ -20,6 +20,12 @@ CUDA-based path tracer to render globally-illuminated scenes. Performance optimi
 Forward+ Shading and Clustered Deferred Shading, using WebGPU and TypeScript, demonstrated on Sponza atrium model with hundreds of point lights. Additional aesthetic artistic cell and outline fragment shader.
 [Live Demo](https://yuhanliu-tech.github.io/WebGPU-Forward-Plus-and-Clustered-Deferred/) available on Chrome. 
 
+## [Vulkan Grass Renderer](https://github.com/yuhanliu-tech/Vulkan-Grass-Rendering)
+
+<img src="https://github.com/yuhanliu-tech/Vulkan-Grass-Rendering/blob/main/img/cover.gif" width="300"/> 
+
+Real-time Bezier curve grass simulation and rendering application using Vulkan compute and tessellation shaders.
+
 ## [WebGL Wisp Shader](https://github.com/yuhanliu-tech/will-o-wisp-shader)
 
 <img src="https://github.com/yuhanliu-tech/will-o-wisp-shader/blob/master/wisp.png" width="300"/> 
